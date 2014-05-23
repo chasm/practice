@@ -1,4 +1,4 @@
 practice
 ========
 
-For practicing git/GitHub stuff.
+For practicing git and GitHub stuff.
