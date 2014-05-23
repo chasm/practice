@@ -10,4 +10,4 @@ Hey, ho, these students got to go.
 
 Byeee!
 
-Paul is playing with branches
+Paul is playing with his branches
